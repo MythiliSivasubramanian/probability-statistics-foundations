@@ -1,8 +1,7 @@
 # Probability and Statistics Foundations
 
-This repository tracks my step-by-step learning journey in Probability and Statistics for Data Science.
-
-I am focusing on intuition first, then formulas, with Python-based practice to connect theory with real data work.
+Step-by-step learning log for Probability and Statistics, with a data science focus.
+The workflow prioritizes intuition first, then formulas, supported by Python practice.
 
 ## Learning Approach
 
